@@ -4,7 +4,7 @@ REG NO - 25BAI10955
 
 Project Overview: Digital Literacy Portfolio
 
-As a Student Digital Ambassador, I developed the Digital Literacy Portfolio to champion the responsible, safe, and effective use of digital technology among my peers. In our modern, tech-centric world, digital literacy is a fundamental requirement. This portfolio acts as a centralized guide covering crucial topics like cultivating a professional online identity, maintaining internet safety, recognizing cyber threats, and leveraging digital tools for academic and personal advancement.
+I developed the Digital Literacy Portfolio to champion the responsible, safe, and effective use of digital technology among my peers. In our modern, tech-centric world, digital literacy is a fundamental requirement. This portfolio acts as a centralized guide covering crucial topics like cultivating a professional online identity, maintaining internet safety, recognizing cyber threats, and leveraging digital tools for academic and personal advancement.
 
 The portfolio features educational materials, real-world examples, quizzes, and visual aids. Its primary objective is to teach students how to safeguard their personal data, engage respectfully online, and establish a constructive digital footprint. By distributing this resource to my classmates and presenting it to the faculty committee, I aim to inspire responsible digital citizenship and empower students to navigate the web with confidence.
 
