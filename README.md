@@ -2,58 +2,64 @@ Name-Chandresh Kuntal
 
 REG NO - 25BAI10955
 
-Project Overview: Digital Literacy Portfolio
+Project Overview: Digital Literacy Portfolio 
 
-I developed the Digital Literacy Portfolio to champion the responsible, safe, and effective use of digital technology among my peers. In our modern, tech-centric world, digital literacy is a fundamental requirement. This portfolio acts as a centralized guide covering crucial topics like cultivating a professional online identity, maintaining internet safety, recognizing cyber threats, and leveraging digital tools for academic and personal advancement.
+I Devised the Digital Literacy Portfolio to Promote the Safe, Responsible, and Effective Use of Digital Technology Among My Peers. We require digital literacy in this tech-centric world we live in. It covers essential aspects such as developing a professional online image, protecting oneself on the internet, understanding various online threats, and using digital tools effectively for learning and personal growth. 
 
-The portfolio features educational materials, real-world examples, quizzes, and visual aids. Its primary objective is to teach students how to safeguard their personal data, engage respectfully online, and establish a constructive digital footprint. By distributing this resource to my classmates and presenting it to the faculty committee, I aim to inspire responsible digital citizenship and empower students to navigate the web with confidence.
+Educational materials, real-world examples, quizzes, and visual aids are the main features of the portfolio. The goal is primarily to teach students to protect their personal data, behave well on the internet, and create a positive image of themselves in the digital space. For this reason, I intend to hand out this portfolio to my classmates and introduce it to the faculty committee, thereby stimulating responsible digital citizenship and ensuring students use the internet with confidence. 
 
-Project Modules Breakdown
-Below is the structured breakdown of the tasks involved in creating the portfolio:
+Project Modules Breakdown 
 
-Module 1: Visualizing Digital Literacy
-This module centers on creating a visually engaging, one-page Canva infographic that highlights the value of digital literacy.
+Based on the portfolio creation, the tasks are broken down as follows: 
 
-Key Requirements: The design must clearly illustrate three core concepts: the definition of digital literacy, a roundup of beneficial student tools, and best practices for internet safety.
+Module 1: Visualizing Digital Literacy 
 
-Module 2: Cultivating a Professional Online Presence
-The objective here is to establish a strong professional footprint across major networking and technical platforms.
+The focus of this third module is to produce a one-page Canva infographic that is visually stimulating and focuses on the importance of digital literacy. 
 
-Key Requirements: Students must create accounts on LinkedIn, Kaggle, and Stack Overflow. A specific requirement is fully updating the LinkedIn profile with academic information, including the specific degree, university name, and anticipated graduation year.
+Key Requirements: The design should conceptually depict three key ideas: defining digital literacy, a collection of student tools, and best internet safety practices. 
 
-Module 3: Technical Skills & Workspace Collaboration
-This task introduces students to collaborative workspaces and coding environments.
+Module 2: Cultivating a Professional Online Presence 
 
-Part A (Coding): Register on HackerRank and successfully solve a beginner-tier programming challenge.
+The intent here is to claim a dominant professional presence on key networking and technical platforms. 
 
-Part B (Collaboration): Utilize Google Workspace to design a Google Form titled "Digital Literacy Awareness Quiz."
+Key Requirements: The students are mandated to have account on LinkedIn, Kaggle, and Stack Overflow; A specific requirement is a full update of the LinkedIn profile with academic information, including the specific degree, the name of the university, and the expected date of graduation. 
 
-The quiz must contain exactly five questions (featuring at least one short-answer and one multiple-choice question).
+Module 3: Technical Skills & Workspace Collaboration 
 
-Responses must be linked to a Google Sheet.
+This task initiates the students into collaborative workspaces and coding environments. 
 
-Students will share the form's URL in their README file and provide screenshots of both the live form and the response sheet.
+Part A (Coding): Register on HackerRank and solve a beginner-level programming challenge successfully. 
 
-Form:-https://docs.google.com/forms/d/e/1FAIpQLScadGvW-lCPkLP3B-TpKafscuCtwIabKGvmkT5--1Q5tjAU3A/viewform?usp=header
+Part B (Collaboration): Use Google Workspace to create a Google Form named ‘Digital Literacy Awareness Quiz’. 
 
-Module 4: Digital Communication & Etiquette
-Here, the focus shifts to professional correspondence and healthy social media habits.
+The quiz has to have five questions exactly (including at least one question with a short answer and one multiple-choice question). 
 
-Part A (Formal Emails): Draft two formal emails demonstrating standard etiquette (a precise subject line, a formal salutation, a well-organized body, and a professional closing).
+Responses have to be linked to a Google sheet. 
 
-Email 1: To a professor asking for an assignment extension.
+Students will share the URL of the created form in their README file, as well as screenshots of the live form and response sheet. 
 
-Email 2: To an internship coordinator applying for a summer role.
+Form:-https://docs.google.com/forms/d/e/1FAIpQLScadGvW-lCPkLP3B-TpKafscuCtwIabKGvmkT5--1Q5tjAU3A/viewform?usp=header 
 
-Part B (Social Media): Formulate a checklist for social media conduct, featuring a minimum of five Do’s (positive practices) and five Don’ts (behaviors to avoid).
+Module 4: Digital Communication & Etiquette 
 
-Module 5: Cybersecurity Awareness & Protection
-The final module emphasizes recognizing online threats and adopting secure digital habits.
+Here, the focus shifts to professional correspondence and healthy relationships with social media. 
 
-Part A (Case Study): Conduct research on a specific cybercrime (e.g., phishing) and draft a comprehensive case study. This study should define the crime, outline its step-by-step execution, identify typical victims, and detail the potential consequences.
+Part A (Formal Emails): Compose two formal emails following the standard etiquette of formal emails (a relevant subject line, a formal salutation, a coherent body, and a formal closure). 
 
-Part B (Safety Checklist): Compile a "Stay Safe Online" guide tailored for Indian college students.
+Email 1: To a professor requesting extension for an assignment. 
 
-Must contain at least eight practical security tips, with a minimum of two tips addressing UPI/financial safety.
+Email 2: To an internship coordinator for a summer internship. 
 
-Must list official reporting channels, specifically the National Cyber Crime Portal (cybercrime.gov.in) and the 1930 Helpline.
+Part B (Social Media): Develop a checklist for social media etiquette with at least five Dos and five Don’ts. 
+
+Module 5: Cybersecurity Awareness & Protection 
+
+The sixth or last module trains students to identify various online threats and to practice safe habits while using digital technology. 
+
+(A) Case study: carry out research on a particular cybercrime and write a case study. This study should include the definition of the crime, step-by-step process of how it is perpetrated, typical victims, and consequences. 
+
+Part B (Safety Checklist): Put together a ‘Stay Safe Online’ guide for Indian college students. 
+
+Must have at least eight practical tips and at least two related to the UPI/financial safety. 
+
+Must list the official reporting channels, namely National Cyber Crime Portal (cybercrime.gov.in) and the 1930 Helpline. 
